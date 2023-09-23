@@ -120,3 +120,4 @@ while count <= ATTEMPT_COUNT:
     count += 1
 else:
     print('Попытки закончились. Game Over!')
+
